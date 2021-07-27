@@ -1,0 +1,76 @@
+{
+  "workers": [
+    {
+      "depart": "IT",
+      "name": "Кучкаров Азиз",
+      "date": "2002-05-06",
+      "gender": "Мужчина",
+      "post": "Front-End",
+      "id": 2
+    },
+    {
+      "depart": "IT",
+      "name": "Asamova Muqaddas",
+      "date": "2001-07-17",
+      "gender": "Женщина",
+      "post": "Web-Dizayn",
+      "id": 9
+    },
+    {
+      "depart": "Маркетинг",
+      "name": "Radjabov Doniyar",
+      "date": "2001-05-22",
+      "gender": "Мужчина",
+      "post": "Менеджер по маркетингу",
+      "id": 11
+    },
+    {
+      "depart": "Маркетинг",
+      "name": "Urakov Sardorbek",
+      "date": "2001-03-03",
+      "gender": "Мужчина",
+      "post": "Бренд-менеджер",
+      "id": 12
+    },
+    {
+      "depart": "Маркетинг",
+      "post": "Маркетолог",
+      "gender": "Женщина",
+      "date": "2021-07-08",
+      "name": "Зилола",
+      "id": 13
+    },
+    {
+      "depart": "IT",
+      "gender": "Мужчина",
+      "name": "Yunusov Zafar",
+      "date": "2001-08-09",
+      "post": "Прогер",
+      "id": 14
+    },
+    {
+      "depart": "Маркетинг",
+      "gender": "Женщина",
+      "name": "Alautdinova Farangiz",
+      "date": "2001-08-09",
+      "post": "Маркетолог",
+      "id": 15
+    },
+    {
+      "depart": "Бухгалтерия",
+      "name": "Dyo Kim",
+      "date": "2001-11-16",
+      "gender": "Женщина",
+      "post": "Главный бухгалтер",
+      "id": 16
+    },
+    {
+      "depart": "Бухгалтерия",
+      "gender": "Женщина",
+      "name": "Хэгай Аяна",
+      "date": "2001-08-24",
+      "post": "Бухгалтер",
+      "id": 17
+    }
+  ]
+}
